@@ -1,0 +1,10 @@
+{
+    "username": "Sofiane",
+    "country": "Morocco",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "addresses": {
+        "Egypte": "Hadayaek",
+        "Morocco": "Casablanca",
+        "France": "Paris"
+    }
+}
